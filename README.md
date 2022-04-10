@@ -11,3 +11,14 @@ Extensive Exploratory Data Analysis on the netflix data available in Kaggle
 
 **Opendatasets**: https://github.com/JovianML/opendatasets/blob/master/README.md#opendatasets
 
+
+_Other Resources_
+
+
+
+https://pythonprogramming.net/introduction-python3-pandas-data-analysis/
+
+https://pythonprogramming.net/graph-visualization-python3-pandas-data-analysis/?completed=/introduction-python3-pandas-data-analysis/
+
+https://pandas.pydata.org/pandas-docs/stable/index.html
+
