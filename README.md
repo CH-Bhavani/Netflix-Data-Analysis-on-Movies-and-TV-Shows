@@ -6,7 +6,7 @@ Extensive Exploratory Data Analysis on the netflix data available in Kaggle
 
 Dataset: https://www.kaggle.com/shivamb/netflix-shows
 
-Opendatasets: [](https://github.com/JovianML/opendatasets/blob/master/README.md#opendatasets)
+Opendatasets: https://github.com/JovianML/opendatasets/blob/master/README.md#opendatasets
 
 Run on Binder: https://jovian.ml/swapnilg4u/netflix-analysis-course-project
 
